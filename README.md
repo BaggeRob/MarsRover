@@ -1,7 +1,7 @@
 # MarsRover
 This was a project I did during the recruting process to ThoughtWorks Inc. in London. The problem was the following:
 
-Introduction to the problem
+Introduction to the problem:
 The problem below requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using hard coded data within a unit test). You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data.
 
 
